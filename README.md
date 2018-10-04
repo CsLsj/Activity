@@ -42,5 +42,4 @@
     * 자연경관
     * 오페라하우스
     
-![mind_map_image](
-
+![mind_map_image](KakaoTalk_20181004_230241916.jpg)
